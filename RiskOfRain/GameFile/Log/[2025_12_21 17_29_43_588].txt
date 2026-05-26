@@ -1,4 +1,0 @@
-[2025_12_21 17_29_31_711] : Button Hovered
-[2025_12_21 17_29_31_727] : Button UnHovered
-[2025_12_21 17_29_31_729] : Button UnHovered
-[2025_12_21 17_29_32_273] : Button Hovered
